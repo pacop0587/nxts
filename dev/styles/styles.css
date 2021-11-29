@@ -1,5 +1,17 @@
-/* Nav */
+/* General */
 .back-color1{
     background-color: #2D2D2D;
+}
+
+.font-color-white{
+    color: #ffff;
+}
+
+.font-color-gold{
+    color: #FFD700;
+}
+
+.font-fam-montse{
+    font-family: 'Montserrat', sans-serif;
 }
 
